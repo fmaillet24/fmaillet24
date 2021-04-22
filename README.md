@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 5 Public Repositories 
+> 📜 3 Public Repositories 
  > 
 > 🔑 15 Private Repositories  
  > 
@@ -59,11 +59,6 @@ Python                   0 secs              ░░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  40 mins             █████████████████████████   100.0%
 
-🐱‍💻 Projects: 
-waka-box                 30 mins             ██████████████████░░░░░░░   73.38% 
-productive-box           10 mins             ██████░░░░░░░░░░░░░░░░░░░   26.62% 
-nox                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
 💻 Operating System: 
 Mac                      40 mins             █████████████████████████   100.0%
 
@@ -78,10 +73,6 @@ C                        1 repo              █░░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/fmaillet24/fmaillet24/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->

@@ -8,11 +8,11 @@
 <h2>:robot: My Programming stats</h2>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-114-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-151-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 266 Contributions in the Year 2021
+> 🏆 272 Contributions in the Year 2021
  > 
 > 📦 74.4 kB Used in Github's Storage 
  > 

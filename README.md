@@ -1,6 +1,6 @@
 ![readm workflow](https://github.com/fmaillet24/fmaillet24/actions/workflows/main.yml/badge.svg)
 
-<h2>Hi, I'm Félix Maillet ! 👋</h2>
+<h2>👋 Hi, I'm Félix Maillet !</h2>
 
 <p>:pushpin: I'm a <strong>Full-Stack Developer currently working in Paris, France.</strong></p>
 <p>:construction_worker: I'm a <strong>currently working @volum</strong></p>

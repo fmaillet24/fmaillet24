@@ -1,3 +1,5 @@
+![readm workflow](https://github.com/fmaillet24/fmaillet24/actions/workflows/main.yml/badge.svg)
+
 <h2>Hi, I'm Félix Maillet ! 👋</h2>
 
 

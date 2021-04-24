@@ -8,7 +8,7 @@
 <h2>:robot: My Programming stats</h2>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-151-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-156-blue)
 
 **🐱 My Github Data** 
 
@@ -51,10 +51,10 @@ Sunday       3 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 🔥 Editors: 
-VS Code                  40 mins             █████████████████████████   100.0%
+VS Code                  8 hrs 40 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      40 mins             █████████████████████████   100.0%
+Mac                      8 hrs 40 mins       █████████████████████████   100.0%
 
 ```
 

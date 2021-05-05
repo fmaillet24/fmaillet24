@@ -8,13 +8,13 @@
 <h2>:robot: My Programming stats</h2>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-185-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-149-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 507 Contributions in the Year 2021
  > 
-> 📦 208.6 kB Used in Github's Storage 
+> 📦 208.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,10 +51,10 @@ Sunday       13 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 🔥 Editors: 
-VS Code                  36 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      36 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 

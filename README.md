@@ -8,13 +8,13 @@
 <h2>:robot: My Programming stats</h2>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-149-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 507 Contributions in the Year 2021
+> 🏆 511 Contributions in the Year 2021
  > 
-> 📦 208.7 kB Used in Github's Storage 
+> 📦 209.4 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,9 +35,9 @@
 
 ```text
 Monday       33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.67% 
-Tuesday      49 commits     █████░░░░░░░░░░░░░░░░░░░░   21.78% 
+Tuesday      47 commits     █████░░░░░░░░░░░░░░░░░░░░   20.89% 
 Wednesday    14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.22% 
-Thursday     42 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.67% 
+Thursday     44 commits     █████░░░░░░░░░░░░░░░░░░░░   19.56% 
 Friday       73 commits     ████████░░░░░░░░░░░░░░░░░   32.44% 
 Saturday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44% 
 Sunday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.78%
@@ -51,10 +51,10 @@ Sunday       13 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 30 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 30 mins       █████████████████████████   100.0%
 
 ```
 

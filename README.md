@@ -12,9 +12,9 @@
 
 **🐱 My Github Data** 
 
-> 🏆 676 Contributions in the Year 2021
+> 🏆 677 Contributions in the Year 2021
  > 
-> 📦 211.7 kB Used in Github's Storage 
+> 📦 211.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,10 +51,10 @@ Sunday       31 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 3 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 3 mins        █████████████████████████   100.0%
 
 ```
 
@@ -70,5 +70,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2021
+ Last Updated on 31/08/2021
 <!--END_SECTION:waka-->

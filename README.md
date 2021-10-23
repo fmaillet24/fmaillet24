@@ -8,13 +8,13 @@
 <h2>:robot: My Programming stats</h2>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 755 Contributions in the Year 2021
  > 
-> 📦 215.0 kB Used in GitHub's Storage 
+> 📦 215.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,10 +51,10 @@ Sunday       31 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 🔥 Editors: 
-VS Code                  1 hr 18 mins        █████████████████████████   100.0%
+VS Code                  2 hrs 30 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      1 hr 18 mins        █████████████████████████   100.0%
+Mac                      2 hrs 30 mins       █████████████████████████   100.0%
 
 ```
 
@@ -70,5 +70,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2021
+ Last Updated on 23/10/2021
 <!--END_SECTION:waka-->

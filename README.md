@@ -12,9 +12,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 789 Contributions in the Year 2021
+> 🏆 790 Contributions in the Year 2021
  > 
-> 📦 216.2 kB Used in GitHub's Storage 
+> 📦 209.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,5 +70,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2021
+ Last Updated on 22/11/2021
 <!--END_SECTION:waka-->

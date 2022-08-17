@@ -8,15 +8,15 @@
 <h2>:robot: My Programming stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 214 Contributions in the Year 2022
+> 🏆 217 Contributions in the Year 2022
  > 
-> 📦 252.4 kB Used in GitHub's Storage 
+> 📦 250.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,9 +38,9 @@
 ```text
 Monday       44 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.24% 
 Tuesday      22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.12% 
-Wednesday    59 commits     █████░░░░░░░░░░░░░░░░░░░░   21.77% 
+Wednesday    61 commits     █████░░░░░░░░░░░░░░░░░░░░   22.51% 
 Thursday     72 commits     ██████░░░░░░░░░░░░░░░░░░░   26.57% 
-Friday       33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.18% 
+Friday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.44% 
 Saturday     11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.06% 
 Sunday       30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.07%
 
@@ -66,5 +66,5 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2022 18:48:50 UTC
+ Last Updated on 17/08/2022 18:48:04 UTC
 <!--END_SECTION:waka-->

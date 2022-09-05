@@ -8,15 +8,15 @@
 <h2>:robot: My Programming stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 229 Contributions in the Year 2022
+> 🏆 236 Contributions in the Year 2022
  > 
-> 📦 252.5 kB Used in GitHub's Storage 
+> 📦 253.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -24,6 +24,36 @@
  > 
 > 🔑 23 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    47 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+🌆 Daytime    162 commits    █████████████████░░░░░░░░   68.94% 
+🌃 Evening    26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.06% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       46 commits     █████░░░░░░░░░░░░░░░░░░░░   19.57% 
+Tuesday      25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.64% 
+Wednesday    61 commits     ██████░░░░░░░░░░░░░░░░░░░   25.96% 
+Thursday     69 commits     ███████░░░░░░░░░░░░░░░░░░   29.36% 
+Friday       23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.79% 
+Saturday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43% 
+Sunday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.26%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Paris
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -36,5 +66,5 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2022 18:45:30 UTC
+ Last Updated on 05/09/2022 18:48:09 UTC
 <!--END_SECTION:waka-->

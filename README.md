@@ -8,13 +8,13 @@
 <h2>:robot: My Programming stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%2022%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 308.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,5 +62,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2024 18:41:47 UTC
+ Last Updated on 03/11/2024 18:42:43 UTC
 <!--END_SECTION:waka-->

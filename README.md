@@ -8,19 +8,19 @@
 <h2>:robot: My Programming stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%2022%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 312.2 kB Used in GitHub's Storage 
  > 
+> 🏆 4 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
  > 
-> 🔑 35 Private Repositories 
+> 🔑 36 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -62,5 +62,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2025 18:57:05 UTC
+ Last Updated on 30/07/2025 18:56:05 UTC
 <!--END_SECTION:waka-->

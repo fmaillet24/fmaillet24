@@ -8,6 +8,8 @@
 <h2>:robot: My Programming stats</h2>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%2022%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -62,5 +64,5 @@ Solidity                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2025 18:46:58 UTC
+ Last Updated on 04/11/2025 18:50:29 UTC
 <!--END_SECTION:waka-->

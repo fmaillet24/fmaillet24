@@ -8,6 +8,8 @@
 <h2>:robot: My Programming stats</h2>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-221%20hrs%2024%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -22,6 +24,39 @@
  > 
 > 🔑 40 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2150 commits        █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+🌆 Daytime                6956 commits        ██████████████████░░░░░░░   70.64 % 
+🌃 Evening                730 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+🌙 Night                  11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   1191 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Tuesday                  1846 commits        █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Wednesday                638 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Thursday                 3315 commits        ████████░░░░░░░░░░░░░░░░░   33.67 % 
+Friday                   2726 commits        ███████░░░░░░░░░░░░░░░░░░   27.68 % 
+Saturday                 56 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Sunday                   75 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -35,5 +70,5 @@ Solidity                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 00:24:14 UTC
+ Last Updated on 07/08/2026 19:29:07 UTC
 <!--END_SECTION:waka-->
